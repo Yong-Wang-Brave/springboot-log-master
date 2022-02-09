@@ -1,0 +1,8 @@
+[TRACEID:] 10:59:53.598 INFO  springframework.boot.StartupInfoLogger.logStarting()/55 - Starting SpringbootTraceApplication on DESKTOP-7U6MDTS with PID 1188 (D:\workspace\springboot-log-master\springboot-trace\target\classes started by king in D:\workspace\springboot-log-master)
+[TRACEID:] 10:59:53.616 INFO  springframework.boot.SpringApplication.logStartupProfileInfo()/651 - No active profile set, falling back to default profiles: default
+[TRACEID:] 10:59:55.200 INFO  apache.juli.logging.DirectJDKLog.log()/173 - Initializing ProtocolHandler ["http-nio-8083"]
+[TRACEID:] 10:59:55.201 INFO  apache.juli.logging.DirectJDKLog.log()/173 - Starting service [Tomcat]
+[TRACEID:] 10:59:55.202 INFO  apache.juli.logging.DirectJDKLog.log()/173 - Starting Servlet engine: [Apache Tomcat/9.0.31]
+[TRACEID:] 10:59:55.369 INFO  apache.juli.logging.DirectJDKLog.log()/173 - Initializing Spring embedded WebApplicationContext
+[TRACEID:] 10:59:55.770 INFO  apache.juli.logging.DirectJDKLog.log()/173 - Starting ProtocolHandler ["http-nio-8083"]
+[TRACEID:] 10:59:55.802 INFO  springframework.boot.StartupInfoLogger.logStarted()/61 - Started SpringbootTraceApplication in 2.835 seconds (JVM running for 4.938)
